@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/PraiseTheLord.dir/dijkstra.c.o CMakeFiles/PraiseTheLord.dir/graph.c.o CMakeFiles/PraiseTheLord.dir/heap.c.o CMakeFiles/PraiseTheLord.dir/main.c.o  -o PraiseTheLord 

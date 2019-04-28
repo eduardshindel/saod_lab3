@@ -1,0 +1,3 @@
+/home/jac/Documents/SAOD/PraiseTheLord/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jac/Documents/SAOD/PraiseTheLord/cmake-build-debug/CMakeFiles/PraiseTheLord.dir
+/home/jac/Documents/SAOD/PraiseTheLord/cmake-build-debug/CMakeFiles/edit_cache.dir
